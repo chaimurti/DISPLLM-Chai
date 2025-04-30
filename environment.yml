@@ -1,4 +1,4 @@
-name: /blue/yonghui.wu/sgao1/anacoda/mpirun_env
+name: displlm-chai
 channels:
   - pytorch
   - nvidia/label/cuda-11.8.0
